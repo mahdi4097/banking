@@ -1,2 +1,2 @@
 # banking
-This is my first project in python. This is a simple bank that I have done as final work of the Python course.
+This is my first Python project - a simple bank that I have completed as the final project for my Python course.
